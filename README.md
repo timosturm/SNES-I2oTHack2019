@@ -16,9 +16,6 @@
 - Explanation of protocol: <https://gamefaqs.gamespot.com/snes/916396-super-nintendo/faqs/5395>
 - SNES cable pin-out: <http://www.tacticalcode.de/2013/06/snespaduino-super-nintendo-gamepad-fur-arduino.html/snespad_pin_labels>
 
-#### Microcontroller setup:
-Refer to the [references](../timosturm/SNES-I2oTHack2019/references)
-
 The project enables to simulate a snes controller with a microcontroller. The button configuration is send to the microcontroller over serial. This enables to automatically run a sequence of commands on the snes. This project was build in three days during the I2oTHack2019 in the university of Kassel.
 
 ##### Authors:
